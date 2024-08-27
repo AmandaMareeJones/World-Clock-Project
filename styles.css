@@ -1,11 +1,5 @@
 body {
   background-color: rgb(188, 172, 172);
-  .caveat-gfont {
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-  }
 }
 
 .container {
