@@ -1,5 +1,12 @@
 body {
   background-color: rgb(188, 172, 172);
+
+  .inconsolata-gfont {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
 }
 
 .container {
@@ -7,7 +14,7 @@ body {
   margin: 60px auto;
   background-color: whitesmoke;
   padding: 30px;
-  box-shadow: 6px 6px;
+  box-shadow: 4px 4px rgb(86, 79, 79);
   border-radius: 10px;
 }
 
