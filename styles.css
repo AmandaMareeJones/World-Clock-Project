@@ -1,10 +1,9 @@
 body {
   background-color: rgb(188, 172, 172);
-
-  .inconsolata-gfont {
-    font-family: "Inconsolata", monospace;
+  .caveat-gfont {
+    font-family: "Caveat", cursive;
     font-optical-sizing: auto;
-    font-weight: 200;
+    font-weight: 300;
     font-style: normal;
   }
 }
